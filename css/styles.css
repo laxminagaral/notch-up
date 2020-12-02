@@ -1,0 +1,66 @@
+p{
+    color: white;
+}
+h4{
+    color:white
+}
+
+.mycard1{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgb(250,16,95,0.85), rgb(255,43,0,0.85));    
+    margin: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px  rgb(250,16,95,0.3);
+
+}
+.btn-1{
+    background-image: linear-gradient(to bottom right, rgba(227, 250, 16, 0.85), rgba(255, 204, 0, 0.85));    
+    border-radius: 20px;
+    color: brown;
+    box-shadow: 5px 5px 10px  rgb(255, 204, 0, 0.35);
+    font-size: small;
+    font-weight: bold;
+   
+}
+
+.mycard2{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgba(43, 16, 250, 0.85), rgba(0, 85, 255, 0.85));    
+    margin: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px  rgba(117, 16, 250, 0.3);
+
+}
+.btn-2{
+    font-size: small;
+    font-weight: bold;
+    background-image: linear-gradient(to bottom right, rgba(16, 250, 195, 0.85), rgba(0, 221, 255, 0.85));    
+    border-radius: 20px;
+    color: rgb(2, 2, 35);
+    box-shadow: 5px 5px 10px  rgba(0, 251, 255, 0.35);
+    
+   
+}
+
+.mycard3{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgba(51, 1, 64, 0.85), rgba(79, 3, 98, 0.85));    
+    margin: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px  rgba(51, 1, 64, 0.35);
+
+}
+.btn-3{
+    background-image: linear-gradient(to bottom right, rgba(218, 103, 253, 0.85), rgba(195, 0, 255, 0.85));    
+    border-radius: 20px;
+    font-size: small;
+    font-weight: bold;
+    color: rgb(30, 2, 35);
+    box-shadow: 5px 5px 10px  rgba(217, 0, 255, 0.35);
+    
+   
+}
+
